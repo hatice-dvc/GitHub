@@ -8,7 +8,7 @@ Takım 101
 
 - Erinç Çetin: Product Owner
 - Hatice Deveci: Scrum Master
-- Beyzanur Yeşilyurt: Developer
-- Fatma Pasin: Developer
-- Beyza Nur Aslanhan: Developer
+- Beyzanur Yeşilyurt: Team Member/Developer
+- Fatma Pasin: Team Member/Developer
+- Beyza Nur Aslanhan: Team Member/Developer
 
