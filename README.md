@@ -1,3 +1,6 @@
 # GitHub
 Test amaçlı oluşturuyorum
-** Ürün Özellikleri
+# Ürün İle İlgili Bilgiler
+
+## Takım Elemanları
+
