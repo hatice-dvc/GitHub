@@ -6,9 +6,6 @@ Takım 101
 
 ## Takım Elemanları
 
-- Erinç Çetin: Product Owner
-- Hatice Deveci: Scrum Master
-- Beyzanur Yeşilyurt: Team Member/Developer
-- Fatma Pasin: Team Member/Developer
-- Beyza Nur Aslanhan: Team Member/Developer
+[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 
+---
